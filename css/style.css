@@ -30,11 +30,13 @@
   background-color: #d0ff00;
 }
 .green-link {
+  font-size: 30px;
   color: #d0ff00;
   display: block;
   text-align: center;
 }
 .home-link {
+  font-size: 20px;
   color: #f2ffb7;
   display: block;
   text-align: center;
@@ -52,7 +54,7 @@
   flex-direction: row;
   justify-content: center;
   font-size: 28px;
-  font-weight: 500;
+  font-weight: 900;
   margin-bottom: 20px;
 }
 

@@ -1,0 +1,18 @@
+.body{
+  background: #555840;
+}
+.main-container{
+  background: #838a61;
+  margin: 50px;
+  padding: 10px 30px;
+  border-radius: 20px;
+}
+.text{
+  color: #343823;
+  line-height: 1.5;
+  font-weight: 500;
+  opacity: 0.8;
+}
+.link-green{
+  color: #d0ff00;
+}

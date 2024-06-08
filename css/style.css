@@ -1,18 +1,58 @@
-.body{
+.body {
   background: #555840;
+  font-family: 'Stardom', sans-serif;
 }
-.main-container{
+.main-container {
   background: #838a61;
-  margin: 50px;
+  margin: 50px auto;
   padding: 10px 30px;
   border-radius: 20px;
 }
-.text{
+.header {
   color: #343823;
+  font-size: 68px;
+  font-weight: 800;
+}
+.text {
+  color: #dff47e;
+  font-size: 30px;
   line-height: 1.5;
   font-weight: 500;
-  opacity: 0.8;
 }
-.link-green{
+.link {
+  text-decoration: none;
+}
+.button {
+  display: block;
+  margin: 0 auto;
+}
+.button:hover {
+  background-color: #d0ff00;
+}
+.green-link {
   color: #d0ff00;
+  display: block;
+  text-align: center;
 }
+.home-link {
+  color: #f2ffb7;
+  display: block;
+  text-align: center;
+}
+.nav-link {
+  margin: 10px;
+  
+}
+.nav-link:hover{
+  background-color: #d0ff00;
+}
+
+.links {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  font-size: 28px;
+  font-weight: 500;
+  margin-bottom: 20px;
+}
+

@@ -57,4 +57,12 @@
   font-weight: 900;
   margin-bottom: 20px;
 }
-
+.link{
+  color:#343823;
+  font-size: 24px;
+  font-weight: 700;
+}
+.link:hover{
+  color: #bbff00;
+  text-decoration: underline;
+}
